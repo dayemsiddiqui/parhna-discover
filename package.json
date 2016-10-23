@@ -1,0 +1,17 @@
+{
+  "name": "parhna-discover",
+  "version": "1.0.0",
+  "description": "A place to discover educational opportunities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dayem Siddiqui",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "multer": "^1.2.0"
+  }
+}
